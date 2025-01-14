@@ -1,5 +1,5 @@
 {
-  "name": "spicyweb/craft-neo",
+  "name": "ayush000/craft-neo",
   "description": "A Matrix-like field type with block hierarchy",
   "version": "5.0.4",
   "type": "craft-plugin",
